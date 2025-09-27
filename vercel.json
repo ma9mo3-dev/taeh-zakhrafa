@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/taeh-zakhrafa",
+      "dest": "/taeh-zakhrafa.js"
+    }
+  ]
+}
